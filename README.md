@@ -1,4 +1,4 @@
-<h1 align="center">Hi I´am Elizeo Pineda Ramirez</h1>
+<h1 align="center">Hi am Elizeo Pineda Ramirez</h1>
 <h3 align="center">Un programador profesional con 5 años de experiencia</h3>
 <img src="Elizeo Pineda Ramirez.png" alt="" width="770" height="350"></img>
 
@@ -16,8 +16,8 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="(https://x.com/Demon_Templar)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@demon_templar" height="30" width="40"/></a>
-<a href="https:(https://www.youtube.com/@Demon_kn1gth)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@demon_kn1gth" height="30" width="40"/></a>
+<a href="¨[https://x.com/Demon_Templar]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@demon_templar" height="30" width="40"/></a>
+<a href="https:[https://www.youtube.com/@Demon_kn1gth]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@demon_kn1gth" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
