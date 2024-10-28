@@ -18,6 +18,7 @@
 <p align="left">
 <a href="¨[https://x.com/Demon_Templar]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@demon_templar" height="30" width="40"/></a>
 <a href="https:[https://www.youtube.com/@Demon_kn1gth]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@demon_kn1gth" height="30" width="40"/></a>
+<p align="left"> <a href="https://twitter.com/@demon_templar" target="blank"><img src="https://img.shields.¿io/twitter/seguir/@demon_templar?logo=twitter&style=for-the-badge" alt="@demon_templar" /></a> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
