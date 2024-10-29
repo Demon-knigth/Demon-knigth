@@ -6,10 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demon-knigth" alt="demon-knigth" /></a> </p>
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/follow/@Demon_kn1gth)
+![YouTube canal](https://img.shields.io/youtube/canal/@Demon_kn1gth)
 ![GitHub followers](https://img.shields.io/github/followers/Demon-knigth)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Demon_templar)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/followers/Demon_templar)
+![X (formerly Twitter) followers](https://img.shields.io/twitter/followers/Demon_templar)
 
 
 - 🔭 Iicim actualmente trabajando en **La creación de páginas web**
