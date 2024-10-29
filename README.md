@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demon-knigth" alt="demon-knigth" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@Demon_templar" target="blank"><img src="https://img.shields.¿io/twitter/seguir/@Demon_templar?logo=twitter&style=for-the-badge" alt="@Demon_templar" /></a> </p>
-
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/demon_templar)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/Demon_kn1gth)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@Demon_kn1gth)
 ![GitHub followers](https://img.shields.io/github/followers/Demon_knigth)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Demon_templar)
 
