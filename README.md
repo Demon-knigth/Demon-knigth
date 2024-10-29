@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demon-knigth" alt="demon-knigth" /></a> </p>
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/Demon_kn1gth)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@Demon_kn1gth)
 ![GitHub followers](https://img.shields.io/github/followers/Demon-knigth)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Demon_templar)
 
