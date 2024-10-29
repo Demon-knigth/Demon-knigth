@@ -9,7 +9,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@Demon_kn1gth)
 ![GitHub followers](https://img.shields.io/github/followers/Demon-knigth)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Demon_templar)
-![X followers](https://img.shields.io/twitter/Demon_Templar/followers)
+![X followers](https://img.shields.io/x.com/Demon_Templar/followers)
 
 
 - 🔭 Iicim actualmente trabajando en **La creación de páginas web**
