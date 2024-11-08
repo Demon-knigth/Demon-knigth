@@ -29,7 +29,7 @@
 
 <td width="50%">
                
-<h3 align="center">First HTML page</h3>
+<h3 align="center">Programacion de mods cap 2 cambiar los valores de un arma</h3>
 <div align="center">                                       
 <a href="https://www.youtube.com/watch?v=Gah7qlTe_aA" target="_blank"><img src="miniatura 2.jpg" width="400" alt="algo"></a>
 <br>
