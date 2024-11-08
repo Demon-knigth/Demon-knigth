@@ -10,6 +10,41 @@
 ![GitHub followers](https://img.shields.io/github/followers/Demon-knigth)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Demon_templar)
 
+## Videos owo
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Creacion de mods cap 1 encontrar los archivos del juego</h3>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=Ocj5-AJI7ZM" target="_blank"><img src="mimiatura 1.jpg" width="400" alt=""></a>
+<p>
+<a href="https://www.youtube.com/watch?v=Ocj5-AJI7ZM" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Most programmers today use <strong>Visual Studio Code</strong> as their preferred text editor, in this video you will learn how to download this simple but powerful tool. <strong>[Video en español]</strong></p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               
+<h3 align="center">First HTML page</h3>
+<div align="center">                                       
+<a href="https://youtu.be/128YI_KYqRs" target="_blank"><img src="https://i.imgur.com/NjMbYdT.png" width="400" alt="algo"></a>
+<br>
+<p>
+<a href="https://www.youtube.com/watch?v=128YI_KYqRs" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Have you ever wanted to have your own website? with this video, you will learn how to make your <strong>first HTML page</strong> using visual estudio code. <strong>[Video en español]</strong></p>
+</div>                                                             
+</table>                                                                                 
+</div>
+</div>
+<br>
+
 
 - 🔭 Iicim actualmente trabajando en **La creación de páginas web**
 
