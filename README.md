@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">Creacion de mods cap 1 encontrar los archivos del juego</h3>
 <div align="center">
-<a href="https://www.youtube.com/watch?v=Ocj5-AJI7ZM" target="_blank"><img src="mimiatura 1.jpg" width="400" alt=""></a>
+<a href="https://www.youtube.com/watch?v=Ocj5-AJI7ZM" target="_blank"><img src="miniatura 1.jpg" width="400" alt=""></a>
 <p>
 <a href="https://www.youtube.com/watch?v=Ocj5-AJI7ZM" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
