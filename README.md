@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demon-knigth&label=Profile%20views&color=0e75b6&style=flat" alt="demon-knigth" /> </p>
 
+<h2 align="center">Programador profesional con 5 años de experiencia especializado en la creacion de paginas web, conozco varios lenguajes de programacion entre ellos HTML, C++, Java Scripy entre otros, dispuesto a trabajar y ayudar a otros programadores principiantes</h2>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demon-knigth" alt="demon-knigth" /></a> </p>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCokWVu73SPFU6SBrdexjGjA)](https://www.youtube.com/@Demon_kn1gth?sub_confirmation=1)
